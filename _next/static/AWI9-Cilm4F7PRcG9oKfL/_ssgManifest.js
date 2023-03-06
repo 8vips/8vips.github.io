@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fabout","\u002Fartists","\u002Feditions","\u002Ffaq","\u002F","\u002Fjoin","\u002Fartists\u002F[artist]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
